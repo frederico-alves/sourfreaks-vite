@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Classic",
+        "description": "Sour and sweet lemonade",
+        "price": 1.00,
+        "imgUrl": "/imgs/lemon.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Strawberry",
+        "description": "Red berries lemonade",
+        "price": 1.80,
+        "imgUrl": "/imgs/strawberry.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Blood Orange",
+        "description": "Fresh blood orange lemonade",
+        "price": 1.80,
+        "imgUrl": "/imgs/bloodOrange.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Blackberry",
+        "description": "Blackberry lemonade",
+        "price": 1.80,
+        "imgUrl": "/imgs/blackberry.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Watermelon",
+        "description": "Watermelon lemonade",
+        "price": 1.80,
+        "imgUrl": "/imgs/watermelon.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Orange",
+        "description": "Orange lemonade",
+        "price": 1.80,
+        "imgUrl": "/imgs/orange.jpg"
+    }
+]
