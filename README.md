@@ -1,5 +1,7 @@
 # Sourfreaks - Juicy Lemonade Stand
 
+This web application uses Vite development environment.
+
 Create a Lemonade stand web-shop.
 
 This web-shop must include:
