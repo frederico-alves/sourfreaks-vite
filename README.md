@@ -2,7 +2,7 @@
 
 This web application uses Vite development environment.
 
-Create a Lemonade stand web-shop.
+Goal: `Create a Lemonade stand web-shop`
 
 This web-shop must include:
     -- a carte of the products that you selected from the web-shop, A product list (with pictures and descriptions)
